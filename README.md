@@ -3,13 +3,7 @@
 Hi! I'm Loïc Schmitt, a student in the Framework-Based Software Design and Development course. 
 💻 I'm passionate about software engineering, web technologies, and embedded systems.
 
-Through this course, I aim to:
 
-Learn how to maintain and evolve existing codebases.
-
-Apply modern software development practices (branching, version control, CI/CD).
-
-Collaborate effectively using GitHub and its ecosystem.
 
 ![My Image](20251015_085152.png)  <!-- Link to the uploaded image -->
 
