@@ -15,5 +15,5 @@ Collaborate effectively using GitHub and its ecosystem.
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [**just here !**](https://github.com/lohik-0)
+You can view my personalized GitHub profile [**just here**](https://github.com/lohik-0) !
 
