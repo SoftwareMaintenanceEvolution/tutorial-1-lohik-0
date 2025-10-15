@@ -11,7 +11,7 @@ Apply modern software development practices (branching, version control, CI/CD).
 
 Collaborate effectively using GitHub and its ecosystem.
 
-![My Image](imageReadme.png)  <!-- Link to the uploaded image -->
+![My Image](20251015_085152.png)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
